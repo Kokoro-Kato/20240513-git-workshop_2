@@ -1,0 +1,21 @@
+commit 51955cdf440ed7ecfc6f518500bec345b286ef17
+Author: Kokoro-Kato <146418355+Kokoro-Kato@users.noreply.github.com>
+Date:   Mon May 13 15:52:07 2024 +0900
+
+    ピースの色を変更
+    
+    シアンをスカイブルーに変更
+
+commit 82e182becc226a14968f2fe089fe77263ef303b2
+Author: Kokoro-Kato <231205063@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 15:47:32 2024 +0900
+
+    ピースの色を変更
+    
+    明るい色にしました
+
+commit 38573ffca3f3a55f2802ae719f159262e7e07c02
+Author: Kokoro-Kato <231205063@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 13 15:38:19 2024 +0900
+
+    ソースコードをインポートしました
